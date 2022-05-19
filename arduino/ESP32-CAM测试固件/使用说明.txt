@@ -1,0 +1,2 @@
+1.打开我们文件夹上的烧录软件，点击ESPFlashDownloadTool_v3.6.2.2.exe,弹出一个点击界面，点击ESP32 DwownloadTool，然后将我们提供的固件安装烧录软件截图进行配置 配置完成后点击START，如果出现等待上电同步就按一下CAM上的RST按钮给模块复位一下烧录完成后记得把GPIO0的引脚线拔掉
+2.手机开个热点：SSID为aithinker PASSWORD为aithinker888，并开启移动数据，然后给模块通电，如果没有意外串口助手会打印出我们提供的截图信息，然后用手机的浏览器输入串口打印的IP地址，例：http://192.168.xx.xx/jpg_stream ,成功后手机会显示你的信息

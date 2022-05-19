@@ -1,0 +1,4 @@
+,radius,thickness,mass,restitution,lateralFriction,spinningFriction,rollingFriction,count,upSideSurface amount,downSideSurface amount,sideSurface amount
+1,0.1,0.1,0.1,0.5,0.5,0.0005,0.002,1000,280,302,418
+2,0.1,0.11,0.1,0.5,0.5,0.0005,0.002,1000,240,279,481
+3,0.1,0.12000000000000001,0.1,0.5,0.5,0.0005,0.002,1000,251,229,520
